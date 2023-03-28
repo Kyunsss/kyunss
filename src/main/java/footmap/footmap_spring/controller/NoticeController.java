@@ -91,18 +91,19 @@ public class NoticeController {
     //풋살장 리스트
     @GetMapping("/FLIST")
     public String FLIST(@Valid PageRequestDTO pageRequestDTO, Model model, BindingResult bindingResult){
-        log.info("---------------풋살장--------리스트시작--------");
+        pageRequestDTO.setSize(12);
+        System.out.println("++++++++++++++++++++++++++++++");
+        System.out.println(pageRequestDTO.getSize());
+        System.out.println("++++++++++++++++++++++++++++++");
         PageResponseDTO<notice> responseDTO = noticeService.finfo3(pageRequestDTO);
-
-
-        log.info(responseDTO);
-        log.info(pageRequestDTO);
 
         if(bindingResult.hasErrors()){
             pageRequestDTO = PageRequestDTO.builder().build();
         }
         model.addAttribute("responseDTO",responseDTO);
-        log.info(model);
+        System.out.println("++++++++++++++++++++++++++++++");
+        System.out.println(responseDTO);
+        System.out.println("++++++++++++++++++++++++++++++");
         return "Page/Notice/FINFO/FLIST";
     }
 

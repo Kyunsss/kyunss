@@ -11,7 +11,6 @@ import java.sql.Timestamp;
 @ToString
 @Builder
 public class notice {
-    private String del_chk;
     private int idx;
     private String n_id;
     private String n_cont;

@@ -3,6 +3,7 @@
       xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
       layout:decorate="shared/_layout">
 <head>
+
     <title>Hello</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
@@ -89,8 +90,8 @@
     </div> <!--end row-->
 
     <!--페이징 목록-->
-    <div class="float-end">
-        <nav aria-label="Page navigation example">
+    <div class="text-center">
+    <nav aria-label="Page navigation example">
         <ul class="pagination justify-content-center">
             <li class="page-item" th:if="${responseDTO.prev}">
                 <a class="page-link" th:data-num="${responseDTO.start -1}">Previous</a>

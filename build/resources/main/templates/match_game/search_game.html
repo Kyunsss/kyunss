@@ -51,20 +51,20 @@
             </thead>
             <tbody>
             <div th:if="${!#lists.isEmpty(responseDTO.dtoList)}">
-            <tr th:each="game:${responseDTO.dtoList}">
-              <td th:text="${game.t_name}"></td>
-              <td th:text="${game.g_date}"></td>
-              <td th:text="${game.f_name}"></td>
-              <td><a th:href="|@{/game/view(g_code=${game.g_code})}&${pageRequestDTO.link}|">상세보기</a></td>
-              <td>
-                <div th:if="${game.g_magam}==1">
-                  마감전
-                </div>
-                <div th:if="${game.g_magam}!=1">
-                  마감
-                </div>
-              </td>
-            </tr>
+              <tr th:each="game:${responseDTO.dtoList}">
+                <td th:text="${game.t_name}"></td>
+                <td th:text="${game.g_date}"></td>
+                <td th:text="${game.f_name}"></td>
+                <td><a th:href="|@{/game/view(g_code=${game.g_code})}&${pageRequestDTO.link}|">상세보기</a></td>
+                <td>
+                  <div th:if="${game.g_magam}==1">
+                    마감전
+                  </div>
+                  <div th:if="${game.g_magam}!=1">
+                    마감
+                  </div>
+                </td>
+              </tr>
             </div>
             <div th:if="${#lists.isEmpty(responseDTO.dtoList)}">
               <tr>
@@ -86,24 +86,27 @@
 
   </div> <!--end row-->
 
-  <!--페이징 목록-->
-  <div class="float-end">
-    <ul class="pagination flex-wrap">
-      <li class="page-item" th:if="${responseDTO.prev}">
-        <a class="page-link" th:data-num="${responseDTO.start -1}">Previous</a>
-      </li>
-      <th:block th:each="i:${#numbers.sequence(responseDTO.start,responseDTO.end)}">
-        <li th:class="${responseDTO.page==i}?'page-item active':'page-item'">
-          <a class="page-link" th:data-num="${i}">[[${i}]]</a>
+  <!—페이징 목록—>
+  <div class="text-center">
+    <nav aria-label="Page navigation example">
+      <ul class="pagination justify-content-center">
+        <!—prev버튼—>
+        <li class="page-item" th:if="${responseDTO.prev}">
+          <a class="page-link" th:data-num="${responseDTO.start -1}">Previous</a>
         </li>
-      </th:block>
-
-      <li class="page-item" th:if="${responseDTO.next}">
-        <a class="page-link" th:data-num="${responseDTO.end + 1}">Next</a>
-      </li>
-    </ul>
-  </div> <!--end float-end-->
-
+        <!—페이지번호—>
+        <th:block th:each="i:${#numbers.sequence(responseDTO.start,responseDTO.end)}">
+          <li class="page-item" th:class="${responseDTO.page==i}?'page-item active':'page-item'">
+            <a class="page-link" th:data-num="${i}">[[${i}]]</a>
+          </li>
+        </th:block>
+        <!—next 버튼—>
+        <li class="page-item" th:if="${responseDTO.next}">
+          <a class="page-link" th:data-num="${responseDTO.end + 1}">Next</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
 </div><!--end fragment:content-->
 
 <script layout:fragment="script" >

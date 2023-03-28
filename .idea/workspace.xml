@@ -4,7 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82bb3b4b-11e1-42ae-bfb7-eebd300894b1" name="Changes" comment="" />
+    <list default="true" id="82bb3b4b-11e1-42ae-bfb7-eebd300894b1" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/FootmapSpringApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/FootmapSpringApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/Security/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/Security/CustomUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/Security/handler/CustomAuthFailureHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/Security/handler/CustomAuthFailureHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/config/CustomCommonsMultipartResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/config/CustomCommonsMultipartResolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/config/CustomSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/config/CustomSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/AjaxController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/AjaxController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/BoardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/BoardController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/JJokjiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/JJokjiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/MailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/MailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/MatchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/MatchController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/NoticeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/controller/NoticeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/JJokjiDao/JJokjiMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/JJokjiDao/JJokjiMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/boardDao/BoardMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/boardDao/BoardMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/gameDao/GameMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/gameDao/GameMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/matchDao/MatchMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/matchDao/MatchMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/noticeDao/NoticeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/noticeDao/NoticeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/teamDao/TeamMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/teamDao/TeamMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/userDao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dao/userDao/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/JJokjiDao/JJokji.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/JJokjiDao/JJokji.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageRequestDTO$PageRequestDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageRequestDTO$PageRequestDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageRequestDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageRequestDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageResponseDTO$PageResponseDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageResponseDTO$PageResponseDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/PageResponseDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/boardDto/Board$BoardBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/boardDto/Board$BoardBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/boardDto/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/boardDto/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/gameDto/Game$GameBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/gameDto/Game$GameBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/gameDto/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/gameDto/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/mailDto/Mail.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/mailDto/Mail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/matchDto/match.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/matchDto/match.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/noticeDto/notice$noticeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/noticeDto/notice$noticeBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/noticeDto/notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/noticeDto/notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/teamDto/team$teamBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/teamDto/team$teamBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/teamDto/team.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/teamDto/team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/userDto/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/userDto/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/userDto/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/dto/userDto/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/JJokjiService/JJokjiService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/JJokjiService/JJokjiService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/JJokjiService/JJokjiServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/JJokjiService/JJokjiServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/boardService/BoardService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/boardService/BoardService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/boardService/BoardServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/boardService/BoardServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/gameService/GameService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/gameService/GameService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/gameService/GameServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/gameService/GameServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/mailService/MailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/mailService/MailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/mailService/MailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/mailService/MailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/matchService/MatchService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/matchService/MatchService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/matchService/MatchServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/matchService/MatchServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/noticeService/NoticeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/noticeService/NoticeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/noticeService/NoticeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/noticeService/NoticeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/teamService/TeamService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/teamService/TeamService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/teamService/TeamServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/teamService/TeamServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/userService/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/userService/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/userService/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/footmap/footmap_spring/service/userService/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/mybatis/mapper/NoticeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/mybatis/mapper/NoticeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/Page/Notice/FINFO/FLIST.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/Page/Notice/FINFO/FLIST.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/Team/t_teams.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/Team/t_teams.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/list_board.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/board/list_board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/match_game/search_game.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/match_game/search_game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/Page/Notice/FINFO/FLIST.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/Page/Notice/FINFO/FLIST.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/Team/t_teams.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/Team/t_teams.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/board/list_board.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/board/list_board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/match_game/search_game.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/match_game/search_game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/footmap/footmap_spring/controller/NoticeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/footmap/footmap_spring/controller/NoticeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/footmap/footmap_spring/dto/noticeDto/notice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/footmap/footmap_spring/dto/noticeDto/notice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/NoticeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/NoticeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Page/Notice/FINFO/FLIST.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Page/Notice/FINFO/FLIST.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Team/t_teams.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Team/t_teams.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/board/list_board.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/board/list_board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/match_game/search_game.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/match_game/search_game.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +119,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -135,19 +220,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.my_team.html" />
-      <item itemvalue="JavaScript Debug.findId.html" />
-      <item itemvalue="JavaScript Debug.findPw.html" />
-      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="JavaScript 디버그.findId.html" />
+      <item itemvalue="JavaScript 디버그.findPw.html" />
+      <item itemvalue="JavaScript 디버그.my_team.html" />
+      <item itemvalue="JavaScript 디버그.test.html" />
       <item itemvalue="Spring Boot.FootmapSpringApplication" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.FootmapSpringApplication" />
-        <item itemvalue="JavaScript Debug.test.html" />
-        <item itemvalue="JavaScript Debug.my_team.html" />
-        <item itemvalue="JavaScript Debug.findPw.html" />
-        <item itemvalue="JavaScript Debug.findId.html" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +282,9 @@
       <workItem from="1675667146000" duration="3968000" />
       <workItem from="1675671196413" duration="18671000" />
       <workItem from="1675781323319" duration="2062000" />
-      <workItem from="1675784622393" duration="1958000" />
+      <workItem from="1675784622393" duration="13657000" />
+      <workItem from="1677287736145" duration="3152000" />
+      <workItem from="1679984010458" duration="525000" />
     </task>
     <servers />
   </component>
@@ -219,6 +302,10 @@
     <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
     <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
     <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
